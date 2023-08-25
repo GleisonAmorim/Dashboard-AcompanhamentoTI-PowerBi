@@ -18,8 +18,6 @@ Este projeto não teria sido possível sem a colaboração entre equipes de dese
 
 Estou animado com os resultados obtidos e as oportunidades de aprendizado que esse projeto trouxe. Se você estiver interessado em dados, visualização, TI e colaboração interdisciplinar, fique à vontade para explorar o código e compartilhar suas ideias!
 
-#PowerBI #DataVisualization #BusinessIntelligence #DataAnalytics #CodingLife #HRManagement #TechCollaboration #Developers #DataInsights #GitHubProject
-
 
 ![4](https://github.com/GleisonAmorim/dash/assets/54336609/e893ec44-4664-4463-93ae-e4fe4e269391)
 ![1](https://github.com/GleisonAmorim/dash/assets/54336609/2cab92f7-43f2-42f5-88e3-a7509be4ef95)
