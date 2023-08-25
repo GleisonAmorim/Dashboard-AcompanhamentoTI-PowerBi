@@ -3,16 +3,22 @@ Recentemente, concluí um projeto empolgante envolvendo a criação de um painel
 Recursos Principais:
 
 Acompanhamento de chamados recebidos, concluídos e cancelados.
+
 Gráfico detalhado sobre os motivos de cancelamento.
+
 Visualização dos impactos dos chamados para avaliação prioritária.
+
 Ranking de produção dos operadores para gerenciamento eficiente.
+
 Identificação de operadores com chamados pendentes.
+
 Total de chamados sem resposta em destaque.
+
 Detalhamento de Chamados sem Resolução:
 
 Filtragem por operador ou tipo de problema.
+
 Botão de pesquisa para localizar chamados por usuário.
-Este projeto não teria sido possível sem a colaboração entre equipes de desenvolvedores, recursos humanos (RH) e a equipe de TI. Ele representa a convergência de habilidades técnicas, gerenciamento eficaz e foco nas necessidades dos usuários.
 
 Estou animado com os resultados obtidos e as oportunidades de aprendizado que esse projeto trouxe. Se você estiver interessado em dados, visualização, TI e colaboração interdisciplinar, fique à vontade para explorar o código e compartilhar suas ideias!
 
