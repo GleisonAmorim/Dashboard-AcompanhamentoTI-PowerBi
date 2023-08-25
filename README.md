@@ -1,5 +1,3 @@
-📊 Projeto de Painel de Indicadores e Chamados de TI no Power BI 📊
-
 Recentemente, concluí um projeto empolgante envolvendo a criação de um painel abrangente no Power BI para monitorar indicadores e chamados de TI. Este projeto visa proporcionar insights valiosos para a equipe de TI e melhorar a tomada de decisões.
 
 Recursos Principais:
