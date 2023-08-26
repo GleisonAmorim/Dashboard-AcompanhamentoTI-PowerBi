@@ -22,7 +22,10 @@ Botão de pesquisa para localizar chamados por usuário.
 
 Estou animado com os resultados obtidos e as oportunidades de aprendizado que esse projeto trouxe. Se você estiver interessado em dados, visualização, TI e colaboração interdisciplinar, fique à vontade para explorar o código e compartilhar suas ideias!
 
+26/08/2023 Atualização: Modifiquei o design do Dashboard e implementei um novo elemento que pode ser muito útil: um gráfico de análise de % de efetividade. Agora conseguimos visualizar de forma clara o percentual de efetividade dos chamados. Além disso, este acompanhamos do percentual de chamados em aberto, que se mantém como um indicador fundamental garantindo que essa métrica permaneça abaixo de 4%, ou que resulte em uma impressionante taxa de efetividade de 96% nas tratativas. Esse novo recurso nos fornece insights valiosos para aprimorar continuamente o  desempenho e manter um alto padrão de atendimento aos clientes.
+
+
 
 ![4](https://github.com/GleisonAmorim/dash/assets/54336609/e893ec44-4664-4463-93ae-e4fe4e269391)
-![1](https://github.com/GleisonAmorim/dash/assets/54336609/2cab92f7-43f2-42f5-88e3-a7509be4ef95)
+![2](https://github.com/GleisonAmorim/Dashboard-AcompanhamentoTI-PowerBi/assets/54336609/95091345-885e-4c5a-8b2d-e26a4aed2229)
 ![3](https://github.com/GleisonAmorim/dash/assets/54336609/bd6ba9f0-596b-4833-adbf-419cf892c6a3)
